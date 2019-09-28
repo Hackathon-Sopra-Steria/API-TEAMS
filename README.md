@@ -1,2 +1,0 @@
-# API-Teams
-Team management
